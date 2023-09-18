@@ -1,10 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+$ git clone git@github.com:vishnu-a-b/TimesWorld.git
+#Or
+Download as zip and extract it
 
 First, run the development server:
 
 ```bash
+cd Asignment-1
+
 npm run dev
 # or
 yarn dev
