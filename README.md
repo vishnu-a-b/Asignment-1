@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 $ git clone git@github.com:vishnu-a-b/TimesWorld.git
 
-# or
+or
 
 Download as zip and extract it
 
