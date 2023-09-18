@@ -10,6 +10,8 @@ First, run the development server:
 ```bash
 cd Asignment-1
 
+npm i
+
 npm run dev
 # or
 yarn dev
